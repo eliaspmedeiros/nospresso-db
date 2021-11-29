@@ -190,39 +190,6 @@
           ]
         },
         {
-          "id": 20,
-          "nome": "Vivalto Lungo",
-          "descricao": "CAFÉ COMPLEXO E BALANCEADO",
-          "intensidade": 4,
-          "precoUnitario": 2.4,
-          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386858082334/C-0038-2000x2000.png",
-          "medidas": [
-            "lungo"
-          ]
-        },
-        {
-          "id": 21,
-          "nome": "Volluto Decaffeinato",
-          "descricao": "CAFÉ ADOCICADO E LEVE DESCAFEINADO",
-          "intensidade": 4,
-          "precoUnitario": 2.4,
-          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13057317896222/voll-decafv2-1-.png",
-          "medidas": [
-            "espresso"
-          ]
-        },
-        {
-          "id": 23,
-          "nome": "Capriccio",
-          "descricao": "CAFÉ COMPLEXO E DIFERENCIADO",
-          "intensidade": 5,
-          "precoUnitario": 2.4,
-          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386856116254/C-0003-2000x2000.png",
-          "medidas": [
-            "espresso"
-          ]
-        },
-        {
           "id": 24,
           "nome": "Fortissio Lungo",
           "descricao": "CAFÉ ESTRUTURADO E ENCORPADO",
@@ -280,26 +247,6 @@
           "medidas": [
             "ristretto",
             "espresso"
-          ]
-        },
-        {
-          "id": 29,
-          "nome": "Corto",
-          "descricao": "CAFÉ PARA RECEITAS INTENSAS COM LEITE",
-          "precoUnitario": 2.6,
-          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12315110637598/C-0293-Original-Corto-2000x2000.png",
-          "medidas": [
-            "lungo"
-          ]
-        },
-        {
-          "id": 30,
-          "nome": "Scuro",
-          "descricao": "CAFÉ PARA RECEITAS EQUILIBRADAS COM LEITE",
-          "precoUnitario": 2.6,
-          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12315109359646/C-0292-Original-Scuro-2000x2000.png",
-          "medidas": [
-            "lungo"
           ]
         },
         {
